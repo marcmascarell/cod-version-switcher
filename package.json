@@ -12,5 +12,8 @@
   "license": "ISC",
   "pkg": {
     "assets": "files/**/*"
+  },
+  "dependencies": {
+    "pkg": "^4.4.0"
   }
 }
