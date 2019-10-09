@@ -42,6 +42,8 @@ Requirements:
                 - ui_mp_x86.dll
             - CoDMP.exe
 
+1. Install [Node JS](https://nodejs.org/es/download/) version >= 8
+
 1. Install dependencies:
 
     `npm install`
